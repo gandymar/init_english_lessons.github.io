@@ -1,0 +1,37 @@
+.side {
+display: flex;
+justify-content: center;
+flex-direction: column;
+gap: 30px;
+}
+.cards_block {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 30px;
+}
+button{
+    width: 325px;
+    height: 83px;
+    border-radius: 5px;
+}
+.red {
+    background-color: red;
+    font-size: 30px;
+}
+.green {
+    background-color: green;
+    font-size: 30px;
+}
+.field_for_input {
+    background-color: violet;
+    width: 679px;
+    height: 503px;
+    border-radius: 60px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    font-size: 30px;
+}
